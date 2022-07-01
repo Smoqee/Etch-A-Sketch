@@ -1,0 +1,14 @@
+.container {
+    width: 600px;
+    border: 1px solid black;
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.sqr {
+    box-shadow: inset 0px 0px 0px 1px #0000004e;
+    background-color: lightgrey;
+}
+
