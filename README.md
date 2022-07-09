@@ -1,3 +1,5 @@
 # Etch-A-Sketch
 
-An TOP assignment to learn implement DOM in real projects.
+A TOP assignment to learn implement DOM in real projects.
+
+https://smoqee.github.io/etch-a-sketch/
