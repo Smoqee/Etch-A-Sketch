@@ -2,4 +2,4 @@
 
 A TOP assignment to learn implement DOM in real projects.
 
-https://smoqee.github.io/etch-a-sketch/
+https://smoqee.github.io/Etch-A-Sketch/
