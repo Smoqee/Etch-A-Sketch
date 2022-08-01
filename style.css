@@ -1,14 +1,35 @@
-.container {
-    width: 600px;
-    border: 1px solid black;
-
+body {
+    height: 100vh;
     display: flex;
-    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: #dbdbdb57;
 }
 
 
-.sqr {
+
+#field {
+    width: 600px;
+    height: 600px;
+    background-color: #dbdbdb;
+    display: inline-grid;
+    grid-template-rows: repeat(10, 40px);
+    border: 8px solid rgb(124, 176, 255);
+    border-radius: 16px;
+    
+}
+
+.item {
     box-shadow: inset 0px 0px 0px 1px #0000004e;
-    background-color: lightgrey;
 }
+button {
+    margin-left: 40px;
+    width: 200px;
+    height: 60px;
+    border: 8px solid rgb(124, 176, 255);
+    border-radius: 16px;
+    color: rgb(124, 176, 255);
+    font-weight: bold;
+    font-size: 24px;
 
+}
